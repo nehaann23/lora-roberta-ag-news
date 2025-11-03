@@ -25,4 +25,3 @@ Our final configuration balanced a low parameter count with high performance by 
 | **LoRA Rank (r)** | 6 |
 | **LoRA Target Modules** | `query`, `key`, `value` |
 | **LoRA Scaling ($\alpha$)** | 16 |
-| **Kaggle Score** | 0.85450 |
